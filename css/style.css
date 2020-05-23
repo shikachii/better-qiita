@@ -1,0 +1,19 @@
+.st-Header_lgtms {
+	display: flex;
+	align-items: bottom;
+	cursor: pointer;
+	position: relative;
+	color: #fff;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	font-size: 1.2rem;
+	line-height: 1;
+	margin-top: 4px;
+	margin-right: 16px;
+	padding: 16px 0;
+}
+
+.st-Header_lgtms_label {
+	height: 14.3px;
+}
